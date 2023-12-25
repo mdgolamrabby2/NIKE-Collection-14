@@ -1,0 +1,149 @@
+
+
+data-aos="fade-down" data-aos-duration="2000"
+
+
+
+
+========== HEADER ==========
+.nav__logo
+Shoes
+
+.nav__link
+Home -- Products -- About -- Review -- Servises
+
+
+========== HOME ==========
+
+.home-title
+NIKE <br>
+Collection
+
+.home__description
+Live the trips exploring the world, discover 
+paradises, islands, mountains and much 
+more, get your trip now.
+
+.button
+SHOP NOW 
+
+
+
+
+
+========== Products ==========
+.section__title
+PRODUCTS
+
+.Products-card title
+NIKE
+
+.Products-description
+Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+
+.card-price
+$100.99
+
+.button
+Add To Cart
+
+
+========== About ==========
+.section__title
+WEB ABOUT
+
+.about-description
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32. The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
+.button
+Shop now
+
+
+========== Review ==========
+.section__title
+CUSTOMER'S  REVIEW
+
+
+.Review-card-title
+Sayuru Tharanga
+
+.card-description
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis, amet nesciunt voluptatem cum architecto ipsum vero nulla voluptatibus dolorum modi assumenda eum? Aliquid inventore velit ipsa repellat numquam atque dolores!
+
+========== Servises ==========
+.section__title
+Customer's review
+
+.card-tiile
+Fast Delivery
+
+
+.card-description
+Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+
+
+
+
+
+========== form ==========
+.form-title
+Welcome Back!
+
+.form-button
+Login
+
+=======footer======
+.footer-title
+Contact
+.footer-itms
+1 [123/Colombo/Sri Lanka]
+2 [+94 12 345 6789]
+3 [contact@gmail.com]
+
+
+
+.footer-title
+Get Help
+
+.footer-itms
+ 1 [FAQ]
+ 2 [Shipping]
+ 3 [Returns]
+4 [Payment Options]
+
+
+
+
+
+
+
+
+
+.footer-title
+Our Stores
+
+.footer-itms
+ 1 [Sri Lanka]
+ 2 [USA]
+ 3 [India]
+4 [Japan]
+
+
+
+.Follw Us
+facebook
+twitter
+instagrem
+linkdin
+
+
+.Newsletter
+your email id hero
+
+.footer-button
+Subscribe
+
+
+
+.footer__copy
+&#169; Copyright Bedimcode. All rights reserved
